@@ -1,2 +1,5 @@
 This is a test file, changes to the end of the file
 This is a new line added from the editor
+
+This is the bug fix
+
